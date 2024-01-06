@@ -31,7 +31,7 @@ To set up the Business Manager App locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/business-manager-app.git
+    git clone https://github.com/nicodemus-munywoki/consolidated-businesses-management-system-.git
     cd business-manager-app
     ```
 
