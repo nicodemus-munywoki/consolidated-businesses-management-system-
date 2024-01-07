@@ -89,9 +89,11 @@ business-manager-app/
 |   |-- Business.js
 |   |-- Employee.js
 |-- views/
-|   |-- index.ejs
-|   |-- businesses.ejs
-|   |-- employees.ejs
+|-- |--layouts/
+|-- |-- |-- mainlayout.pug
+|   |-- index.pug
+|   |-- businesses.pug
+|   |-- employees.pug
 |-- public/
 |   |-- styles/
 |       |-- style.css
